@@ -3,9 +3,6 @@
 
 #Condicionales: if, elif, else
 
-#Listas de ejemplo
-edades2 = [10, 15, 20, 25, 30]
-
 edades = [15, 22, 18, 30, 25, 12, 17]
 nombres = ['Ana', 'Luis', 'Carlos', 'Marta', 'Sofía', 'Jorge', 'Lucía']
 #Nos preguntamos si hay alguien con la mayoría de edad
